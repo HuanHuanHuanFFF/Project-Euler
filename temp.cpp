@@ -2,7 +2,6 @@
 
 using std::cin;
 using std::cout;
-using std::endl;
 using std::pair;
 using std::vector;
 using std::string;
